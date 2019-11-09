@@ -1,7 +1,7 @@
 # Tool Name :- MyServer
-# Author :- Rajkumar Dusad
+# Author :- LordReaper
 # Date :- 22/5/2018
-# Powered By :- Aex Software's
+# Powered By :- H1ckPro Software's
 
 import os
 import sys
@@ -136,8 +136,8 @@ def ab():
     Mylogo()
     print('''
       \033[1;36m Tool Name   :-     \033[0;33mMyServer
-      \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
-      \033[1;36m Powered By  :-     \033[0;33mAex Software's
+      \033[1;36m Author      :-     \033[0;33mLordReaper
+      \033[1;36m Powered By  :-     \033[0;33mH1ckPro Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost
  server. you can setup PHP, Apache web servers
@@ -150,8 +150,8 @@ def ab():
     Mylogo()
     print('''
           \033[1;36m Tool Name   :-     \033[0;33mMyServer
-          \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
-          \033[1;36m Powered By  :-     \033[0;33mAex Software's
+          \033[1;36m Author      :-     \033[0;33mLordReaper
+          \033[1;36m Powered By  :-     \033[0;33mH1ckPro Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost server.
  you can setup PHP, Apache web servers on your android
