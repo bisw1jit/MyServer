@@ -1,7 +1,7 @@
 # Tool Name :- MyServer
-# Author :- Rajkumar Dusad
-# Date :- 13/11/2018
-# Powered By :- Aex Software's
+# Author :- LordReaper
+# Date :- 9/11/2019
+# Powered By :- H1ckPro Software's
 if [ -d /data/data/com.termux/files/usr/share/MyServer ];then
   cd /data/data/com.termux/files/usr/share/MyServer
   exec python3 MyServer.py $@
