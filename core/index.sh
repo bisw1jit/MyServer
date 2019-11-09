@@ -6,7 +6,7 @@ cat > $bin <<- EOM
 <head>
   <meta charset="utf-8"/>
   <title>MyServer</title>
-  <meta name="author" content="Aex Software's"/>
+  <meta name="author" content="H1ckPro Software's"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 
 <!-- CSS -->
