@@ -1,7 +1,7 @@
 # Tool Name :- MyServer
-# Author :- Rajkumar Dusad
+# Author :- LordReaper
 # Date :- 22/5/2018
-# Powered By :- Aex Software's
+# Powered By :- H1ckPro Software's
 
 import sys
 import os
