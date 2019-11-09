@@ -1,7 +1,7 @@
 # Tool Name :- MyServer
-# Author :- Rajkumar Dusad
+# Author :- LordReaper
 # Date :- 22/July/2019
-# Powered By :- Aex Software's
+# Powered By :- H1ckPro Software's
 
 import sys
 import os
@@ -25,9 +25,9 @@ class upd(object):
           os.system(pac+" update")
           os.system(pac+" install git -y")
         if system=="ubuntu":
-          os.system("cd "+home+" && sudo git clone https://github.com/Rajkumrdusad/MyServer.git")
+          os.system("cd "+home+" && sudo git clone https://github.com/H1ckPro/MyServer.git")
         else:
-          os.system("cd "+home+" && git clone https://github.com/Rajkumrdusad/MyServer.git")
+          os.system("cd "+home+" && git clone https://github.com/H1ckPro/MyServer.git")
         if os.path.exists(home+"MyServer"):
           os.system("cd "+home+"MyServer && sh install")
           os.system("clear")
