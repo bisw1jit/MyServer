@@ -1,8 +1,8 @@
 #!/bin/bash
 # Tool Name :- MyServer
 # Author :- Rajkumar Dusad
-# Date :- 22/5/2018
-# Powered By :- Aex Software's
+# Date :- 5/11/2019
+# Powered By :- H1ckPro Software's
 file="ngrok"
 pkg install tar -y
 pkg install curl -y
